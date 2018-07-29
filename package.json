@@ -1,0 +1,29 @@
+{
+  "name": "AngulayjsWebApp",
+  "version": "1.0.0",
+  "description": "Angular js webapp which runs on express web server spinned by node.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "angular": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh007/AngulayjsWebApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritesh007/AngulayjsWebApp/issues"
+  },
+  "homepage": "https://github.com/Ritesh007/AngulayjsWebApp#readme"
+}
